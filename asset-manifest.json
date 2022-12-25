@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.0cb06361.css",
+    "main.css": "./static/css/main.887db6b0.css",
     "main.js": "./static/js/main.c9b44711.js",
     "static/js/787.8edad83e.chunk.js": "./static/js/787.8edad83e.chunk.js",
     "static/media/Gurajada-Regular.ttf": "./static/media/Gurajada-Regular.a1a6e26be4e949542ac6.ttf",
@@ -18,12 +18,12 @@
     "static/media/soupRushLogo.png": "./static/media/soupRushLogo.3841a1ee5b6937ce6955.png",
     "static/media/switchArticle.png": "./static/media/switchArticle.2d726f4c71667f7b0511.png",
     "index.html": "./index.html",
-    "main.0cb06361.css.map": "./static/css/main.0cb06361.css.map",
+    "main.887db6b0.css.map": "./static/css/main.887db6b0.css.map",
     "main.c9b44711.js.map": "./static/js/main.c9b44711.js.map",
     "787.8edad83e.chunk.js.map": "./static/js/787.8edad83e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cb06361.css",
+    "static/css/main.887db6b0.css",
     "static/js/main.c9b44711.js"
   ]
 }
