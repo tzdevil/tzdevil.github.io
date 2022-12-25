@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0cb06361.css",
+    "main.js": "./static/js/main.c9b44711.js",
+    "static/js/787.8edad83e.chunk.js": "./static/js/787.8edad83e.chunk.js",
+    "static/media/Gurajada-Regular.ttf": "./static/media/Gurajada-Regular.a1a6e26be4e949542ac6.ttf",
+    "static/media/arrowArticle.gif": "./static/media/arrowArticle.7551ff60f320f6fb47ca.gif",
+    "static/media/singletonArticle.png": "./static/media/singletonArticle.6b36436beff827ccf86b.png",
+    "static/media/pfp-temp.png": "./static/media/pfp-temp.fd80916e290e5dcf0dba.png",
+    "static/media/chessLogo.png": "./static/media/chessLogo.5c49bf57f68ee8a5d950.png",
+    "static/media/Frygia.ttf": "./static/media/Frygia.64513c928a9817a21e67.ttf",
+    "static/media/labelBlocks.png": "./static/media/labelBlocks.c5bd297d8ed6127d65e1.png",
+    "static/media/GloryTSI-Regular.ttf": "./static/media/GloryTSI-Regular.a6cacb222b353db490fa.ttf",
+    "static/media/wordGameInfiniteLogo.png": "./static/media/wordGameInfiniteLogo.06f7db68c903e962d0a1.png",
+    "static/media/tzUtils.png": "./static/media/tzUtils.13e9bfe74cb8e3076b29.png",
+    "static/media/FredokaOne-Regular.ttf": "./static/media/FredokaOne-Regular.4aea26dd6637dfac0fac.ttf",
+    "static/media/Graduate-Regular.ttf": "./static/media/Graduate-Regular.64e4e90410e2cf37d41c.ttf",
+    "static/media/soupRushLogo.png": "./static/media/soupRushLogo.3841a1ee5b6937ce6955.png",
+    "static/media/switchArticle.png": "./static/media/switchArticle.2d726f4c71667f7b0511.png",
+    "index.html": "./index.html",
+    "main.0cb06361.css.map": "./static/css/main.0cb06361.css.map",
+    "main.c9b44711.js.map": "./static/js/main.c9b44711.js.map",
+    "787.8edad83e.chunk.js.map": "./static/js/787.8edad83e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cb06361.css",
+    "static/js/main.c9b44711.js"
+  ]
+}
