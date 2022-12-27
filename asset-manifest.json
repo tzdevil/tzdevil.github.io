@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.887db6b0.css",
-    "main.js": "./static/js/main.b1fd2d06.js",
+    "main.js": "./static/js/main.7838cd37.js",
     "static/js/787.8edad83e.chunk.js": "./static/js/787.8edad83e.chunk.js",
     "static/media/Gurajada-Regular.ttf": "./static/media/Gurajada-Regular.a1a6e26be4e949542ac6.ttf",
     "static/media/arrowArticle.gif": "./static/media/arrowArticle.7551ff60f320f6fb47ca.gif",
     "static/media/singletonArticle.png": "./static/media/singletonArticle.6b36436beff827ccf86b.png",
-    "static/media/pfp-temp.png": "./static/media/pfp-temp.fd80916e290e5dcf0dba.png",
     "static/media/chessLogo.png": "./static/media/chessLogo.5c49bf57f68ee8a5d950.png",
     "static/media/Frygia.ttf": "./static/media/Frygia.64513c928a9817a21e67.ttf",
+    "static/media/profile-picture.png": "./static/media/profile-picture.544bb8aa2a79a055ac4b.png",
     "static/media/labelBlocks.png": "./static/media/labelBlocks.c5bd297d8ed6127d65e1.png",
     "static/media/GloryTSI-Regular.ttf": "./static/media/GloryTSI-Regular.a6cacb222b353db490fa.ttf",
     "static/media/wordGameInfiniteLogo.png": "./static/media/wordGameInfiniteLogo.06f7db68c903e962d0a1.png",
@@ -19,11 +19,11 @@
     "static/media/switchArticle.png": "./static/media/switchArticle.2d726f4c71667f7b0511.png",
     "index.html": "./index.html",
     "main.887db6b0.css.map": "./static/css/main.887db6b0.css.map",
-    "main.b1fd2d06.js.map": "./static/js/main.b1fd2d06.js.map",
+    "main.7838cd37.js.map": "./static/js/main.7838cd37.js.map",
     "787.8edad83e.chunk.js.map": "./static/js/787.8edad83e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.887db6b0.css",
-    "static/js/main.b1fd2d06.js"
+    "static/js/main.7838cd37.js"
   ]
 }
