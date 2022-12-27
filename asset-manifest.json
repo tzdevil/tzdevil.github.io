@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.887db6b0.css",
-    "main.js": "./static/js/main.7838cd37.js",
+    "main.css": "./static/css/main.6636b976.css",
+    "main.js": "./static/js/main.901a2bea.js",
     "static/js/787.8edad83e.chunk.js": "./static/js/787.8edad83e.chunk.js",
     "static/media/Gurajada-Regular.ttf": "./static/media/Gurajada-Regular.a1a6e26be4e949542ac6.ttf",
     "static/media/arrowArticle.gif": "./static/media/arrowArticle.7551ff60f320f6fb47ca.gif",
@@ -18,12 +18,12 @@
     "static/media/soupRushLogo.png": "./static/media/soupRushLogo.3841a1ee5b6937ce6955.png",
     "static/media/switchArticle.png": "./static/media/switchArticle.2d726f4c71667f7b0511.png",
     "index.html": "./index.html",
-    "main.887db6b0.css.map": "./static/css/main.887db6b0.css.map",
-    "main.7838cd37.js.map": "./static/js/main.7838cd37.js.map",
+    "main.6636b976.css.map": "./static/css/main.6636b976.css.map",
+    "main.901a2bea.js.map": "./static/js/main.901a2bea.js.map",
     "787.8edad83e.chunk.js.map": "./static/js/787.8edad83e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.887db6b0.css",
-    "static/js/main.7838cd37.js"
+    "static/css/main.6636b976.css",
+    "static/js/main.901a2bea.js"
   ]
 }
