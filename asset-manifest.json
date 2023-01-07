@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a5d6e133.css",
-    "main.js": "./static/js/main.002b7941.js",
+    "main.js": "./static/js/main.29237066.js",
     "static/js/787.8edad83e.chunk.js": "./static/js/787.8edad83e.chunk.js",
     "static/media/Gurajada-Regular.ttf": "./static/media/Gurajada-Regular.a1a6e26be4e949542ac6.ttf",
     "static/media/arrowArticle.gif": "./static/media/arrowArticle.7551ff60f320f6fb47ca.gif",
@@ -9,6 +9,7 @@
     "static/media/chessLogo.png": "./static/media/chessLogo.5c49bf57f68ee8a5d950.png",
     "static/media/Frygia.ttf": "./static/media/Frygia.64513c928a9817a21e67.ttf",
     "static/media/profile-picture.png": "./static/media/profile-picture.544bb8aa2a79a055ac4b.png",
+    "static/media/harvestHustleLogo.png": "./static/media/harvestHustleLogo.24c8a13b4ccbd7083863.png",
     "static/media/labelBlocks.png": "./static/media/labelBlocks.c5bd297d8ed6127d65e1.png",
     "static/media/GloryTSI-Regular.ttf": "./static/media/GloryTSI-Regular.a6cacb222b353db490fa.ttf",
     "static/media/wordGameInfiniteLogo.png": "./static/media/wordGameInfiniteLogo.06f7db68c903e962d0a1.png",
@@ -19,11 +20,11 @@
     "static/media/switchArticle.png": "./static/media/switchArticle.2d726f4c71667f7b0511.png",
     "index.html": "./index.html",
     "main.a5d6e133.css.map": "./static/css/main.a5d6e133.css.map",
-    "main.002b7941.js.map": "./static/js/main.002b7941.js.map",
+    "main.29237066.js.map": "./static/js/main.29237066.js.map",
     "787.8edad83e.chunk.js.map": "./static/js/787.8edad83e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5d6e133.css",
-    "static/js/main.002b7941.js"
+    "static/js/main.29237066.js"
   ]
 }
