@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.a5d6e133.css",
-    "main.js": "./static/js/main.29237066.js",
+    "main.css": "./static/css/main.280edea2.css",
+    "main.js": "./static/js/main.dea835ef.js",
     "static/js/787.8edad83e.chunk.js": "./static/js/787.8edad83e.chunk.js",
     "static/media/Gurajada-Regular.ttf": "./static/media/Gurajada-Regular.a1a6e26be4e949542ac6.ttf",
     "static/media/arrowArticle.gif": "./static/media/arrowArticle.7551ff60f320f6fb47ca.gif",
+    "static/media/codinGameCSharpCertificate.png": "./static/media/codinGameCSharpCertificate.5ea5d36c44324a096e41.png",
     "static/media/singletonArticle.png": "./static/media/singletonArticle.6b36436beff827ccf86b.png",
     "static/media/chessLogo.png": "./static/media/chessLogo.5c49bf57f68ee8a5d950.png",
     "static/media/Frygia.ttf": "./static/media/Frygia.64513c928a9817a21e67.ttf",
@@ -19,12 +20,12 @@
     "static/media/soupRushLogo.png": "./static/media/soupRushLogo.3841a1ee5b6937ce6955.png",
     "static/media/switchArticle.png": "./static/media/switchArticle.2d726f4c71667f7b0511.png",
     "index.html": "./index.html",
-    "main.a5d6e133.css.map": "./static/css/main.a5d6e133.css.map",
-    "main.29237066.js.map": "./static/js/main.29237066.js.map",
+    "main.280edea2.css.map": "./static/css/main.280edea2.css.map",
+    "main.dea835ef.js.map": "./static/js/main.dea835ef.js.map",
     "787.8edad83e.chunk.js.map": "./static/js/787.8edad83e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5d6e133.css",
-    "static/js/main.29237066.js"
+    "static/css/main.280edea2.css",
+    "static/js/main.dea835ef.js"
   ]
 }
