@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.539a5c3b.css",
-    "main.js": "/static/js/main.60028cea.js",
+    "main.js": "/static/js/main.cca06efa.js",
     "static/js/787.6b6c0a7b.chunk.js": "/static/js/787.6b6c0a7b.chunk.js",
     "static/media/Gurajada-Regular.ttf": "/static/media/Gurajada-Regular.a1a6e26be4e949542ac6.ttf",
     "static/media/arrowArticle.gif": "/static/media/arrowArticle.7551ff60f320f6fb47ca.gif",
@@ -17,15 +17,16 @@
     "static/media/tzUtils.png": "/static/media/tzUtils.13e9bfe74cb8e3076b29.png",
     "static/media/FredokaOne-Regular.ttf": "/static/media/FredokaOne-Regular.4aea26dd6637dfac0fac.ttf",
     "static/media/Graduate-Regular.ttf": "/static/media/Graduate-Regular.64e4e90410e2cf37d41c.ttf",
+    "static/media/sceneSet.png": "/static/media/sceneSet.3c9c7ac415cbe5c6608d.png",
     "static/media/soupRushLogo.png": "/static/media/soupRushLogo.3841a1ee5b6937ce6955.png",
     "static/media/switchArticle.png": "/static/media/switchArticle.2d726f4c71667f7b0511.png",
     "index.html": "/index.html",
     "main.539a5c3b.css.map": "/static/css/main.539a5c3b.css.map",
-    "main.60028cea.js.map": "/static/js/main.60028cea.js.map",
+    "main.cca06efa.js.map": "/static/js/main.cca06efa.js.map",
     "787.6b6c0a7b.chunk.js.map": "/static/js/787.6b6c0a7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.539a5c3b.css",
-    "static/js/main.60028cea.js"
+    "static/js/main.cca06efa.js"
   ]
 }
