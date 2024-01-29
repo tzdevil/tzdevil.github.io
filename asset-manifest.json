@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.539a5c3b.css",
-    "main.js": "/static/js/main.be25fdc5.js",
+    "main.css": "/static/css/main.950853fd.css",
+    "main.js": "/static/js/main.94133f57.js",
     "static/js/787.6b6c0a7b.chunk.js": "/static/js/787.6b6c0a7b.chunk.js",
     "static/media/Gurajada-Regular.ttf": "/static/media/Gurajada-Regular.a1a6e26be4e949542ac6.ttf",
     "static/media/deathFromLaughterLogo.png": "/static/media/deathFromLaughterLogo.7c784c552b0f2aa3fa33.png",
@@ -23,12 +23,12 @@
     "static/media/soupRushLogo.png": "/static/media/soupRushLogo.3841a1ee5b6937ce6955.png",
     "static/media/switchArticle.png": "/static/media/switchArticle.2d726f4c71667f7b0511.png",
     "index.html": "/index.html",
-    "main.539a5c3b.css.map": "/static/css/main.539a5c3b.css.map",
-    "main.be25fdc5.js.map": "/static/js/main.be25fdc5.js.map",
+    "main.950853fd.css.map": "/static/css/main.950853fd.css.map",
+    "main.94133f57.js.map": "/static/js/main.94133f57.js.map",
     "787.6b6c0a7b.chunk.js.map": "/static/js/787.6b6c0a7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.539a5c3b.css",
-    "static/js/main.be25fdc5.js"
+    "static/css/main.950853fd.css",
+    "static/js/main.94133f57.js"
   ]
 }
