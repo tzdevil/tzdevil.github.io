@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.950853fd.css",
-    "main.js": "/static/js/main.94133f57.js",
+    "main.js": "/static/js/main.be3ceb4a.js",
     "static/js/787.6b6c0a7b.chunk.js": "/static/js/787.6b6c0a7b.chunk.js",
     "static/media/Gurajada-Regular.ttf": "/static/media/Gurajada-Regular.a1a6e26be4e949542ac6.ttf",
     "static/media/deathFromLaughterLogo.png": "/static/media/deathFromLaughterLogo.7c784c552b0f2aa3fa33.png",
@@ -17,6 +17,7 @@
     "static/media/wordGameInfiniteLogo.png": "/static/media/wordGameInfiniteLogo.06f7db68c903e962d0a1.png",
     "static/media/tzUtils.png": "/static/media/tzUtils.13e9bfe74cb8e3076b29.png",
     "static/media/FredokaOne-Regular.ttf": "/static/media/FredokaOne-Regular.4aea26dd6637dfac0fac.ttf",
+    "static/media/timeTracker.png": "/static/media/timeTracker.db6826f93e1de597549a.png",
     "static/media/inspectorPlus.png": "/static/media/inspectorPlus.13cc0e7c56df472147ef.png",
     "static/media/Graduate-Regular.ttf": "/static/media/Graduate-Regular.64e4e90410e2cf37d41c.ttf",
     "static/media/sceneSet.png": "/static/media/sceneSet.3c9c7ac415cbe5c6608d.png",
@@ -24,11 +25,11 @@
     "static/media/switchArticle.png": "/static/media/switchArticle.2d726f4c71667f7b0511.png",
     "index.html": "/index.html",
     "main.950853fd.css.map": "/static/css/main.950853fd.css.map",
-    "main.94133f57.js.map": "/static/js/main.94133f57.js.map",
+    "main.be3ceb4a.js.map": "/static/js/main.be3ceb4a.js.map",
     "787.6b6c0a7b.chunk.js.map": "/static/js/787.6b6c0a7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.950853fd.css",
-    "static/js/main.94133f57.js"
+    "static/js/main.be3ceb4a.js"
   ]
 }
